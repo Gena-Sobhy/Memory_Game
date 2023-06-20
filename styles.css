@@ -1,0 +1,22 @@
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 650px;
+    padding: 0px;
+}
+
+img {
+    width: 150px;
+    height: 175px;
+    margin: 0.25rem;
+    border: 2px solid pink;
+}
+
+h3{
+    font-size: 2rem;
+    margin-left: 0.5rem;
+}
+
+#result {
+    color: brown;
+}
